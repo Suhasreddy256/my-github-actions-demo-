@@ -1,0 +1,11 @@
+{
+  "name": "my-github-actions-demo",
+  "version": "1.0.0",
+  "description": "Demo Node.js app with GitHub Actions CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
